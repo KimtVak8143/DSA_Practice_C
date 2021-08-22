@@ -1,7 +1,3 @@
-//
-// Created by mohit on 22-08-2021.
-//
-
 #include<stdio.h>
 int main()
 {   printf("Hello,\n");
