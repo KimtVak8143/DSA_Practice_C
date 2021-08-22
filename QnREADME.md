@@ -10,10 +10,10 @@
 - Source/Category/Platform :
 
 ##Question 1
-- Date :
-- Statement : 
-- Language :
-- Topics :
+- Date : 22 August 2021
+- Statement : Diagonal Difference
+- Language : C
+- Topics : matrix, 
 - Link to problem :
 - Source/Category/Platform :
 
