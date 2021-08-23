@@ -10,12 +10,12 @@
 - Source/Category/Platform :
 
 ##Question 1
-- Date : 22 August 2021
+- Date : 23 August 2021
 - Statement : Diagonal Difference
 - Language : C
 - Topics : matrix, 
-- Link to problem :
-- Source/Category/Platform :
+- Link to problem : https://www.hackerrank.com/challenges/diagonal-difference/problem
+- Source/Category/Platform : HackerRank
 
 ##Question 2
 - Date :

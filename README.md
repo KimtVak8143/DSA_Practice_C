@@ -1,16 +1,15 @@
 # DSA_Practice_C
 
 # Welcome to DSA Practice Repo
-
-### Maintained and Structured by Mohit Kumar Kushwaha
+<h3>Maintained and Structured by <a href="https://github.com/KimtVak8143">Mohit Kumar Kushwaha</a></h3>
 
 ### Problems are included from HackerRank, HackerEarth, CodeChef
 P.S. LeetCode - aukaat se bahar hai abhi ke liye
 (Translation : LeetCode is 😍)
 
-<h3>Questions <a href="https://github.com/KimtVak8143/DSA_practice/blob/main/Questions/Cquestions.md">Index</a></h3>
+<h3>Questions <a href="https://github.com/KimtVak8143/DSA_Practice_C/blob/main/QnREADME.md">Index</a></h3>
 
-<h3>Solutions <a href="https://github.com/KimtVak8143/DSA_practice/blob/main/Solutions/CREADME.md">Index </a></h3>
+<h3>Solutions <a href="https://github.com/KimtVak8143/DSA_Practice_C/blob/main/SolREADME.md">Index </a></h3>
 
 ## Contributions are Welcome
 
